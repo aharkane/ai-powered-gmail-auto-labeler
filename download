@@ -1,0 +1,14 @@
+# Sensitive files - NEVER push these
+token.json
+credentials.json
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
